@@ -4,7 +4,7 @@
 - In case you use a different host, port or credentials, connections settings would require adjusting
 
 ### Notion
-- RabbitMQ í a message broker. It accepts and forwards messages
+- RabbitMQ is a message broker. It accepts and forwards messages
 - RabbitMQ, and messaging in general, uses some jargon
 * Producing means nothing more than sending. A program that sends messages is a producer
 * A queue is them name for the post box in RabbitMQ. Although messages flow through RabbitMQ and your applications,
