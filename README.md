@@ -14,8 +14,7 @@ Many producers can send messages that go to one queue, and many consumers can tr
 This is how we represent a queue
 Consuming has a similar meaning to receiving. A consumer is a program that mostly waits to receive messages
 
-### **Note** that the producer, consumer, and broker do not have to reside on the same host; indeed in most applications
-they don't. An application can be both a producer and consumer, too
+**Note** that the producer, consumer, and broker do not have to reside on the same host; indeed in most applications they don't. An application can be both a producer and consumer, too
 
 ## New words
 assume: cho rằng
